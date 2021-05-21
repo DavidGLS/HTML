@@ -8,10 +8,14 @@
 5. Learn to use cellspacing;  
 6. Learn to use col;  
 7. Learn to use width in col element;  
-8. Learn to use align in tr element;
+8. Learn to use align in tr element;  
+9. Learn to use colspan and rolspan to make a merged table;
 ***  
-## 2. Final appearance:  
-![Final Look](img/01.jpg)
+## 2. Requirements:  
+The first table must look like this:  
+![First table](img/01.jpg)  
+The second talbe must look like this:
+![Second table](img/02.jpg)
 ***
 ## 3. Learning Link:  
 [Bilibili-WebDeveloper](https://www.bilibili.com/video/BV1Bb411v7w8?p=10)
