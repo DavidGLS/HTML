@@ -9,7 +9,10 @@
 6. Learn to use col;  
 7. Learn to use width in col element;  
 8. Learn to use align in tr element;  
-9. Learn to use colspan and rolspan to make a merged table;
+9. Learn to use colspan and rolspan to make a merged table;  
+10. Learn to use thead, tbody, tfoot tags;  
+11. Learn to use colgroup to shorter codes;  
+12. Learn to use remarks;
 ***  
 ## 2. Requirements:  
 The first table must look like this:  
