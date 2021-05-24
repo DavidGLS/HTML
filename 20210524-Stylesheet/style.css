@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+}
+#navigation {
+    text-align: center;
+    line-height: 40px;
+    font-size: 16px;
+}
+.nav {
+    text-decoration: none;
+    color: black;
+    padding: 0 15px;
+    border-right: solid 1px #808080;
+}
+.nav-last {
+    text-decoration: none;
+    color: black;
+    padding: 0 15px;
+    border: none;
+}
