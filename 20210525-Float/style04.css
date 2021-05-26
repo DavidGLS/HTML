@@ -1,0 +1,25 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+.message {
+    width: 300px;
+    height: 500px;
+    border-width: 1px;
+    border-style: dotted;
+    border-color: #222222;
+    font-size: 20px;
+    list-style: none;
+    margin: auto;
+}
+.msg-left,.msg-right {
+    clear: both;
+}
+.msg-left {
+    float: left;
+    background-color: lightgray;
+}
+.msg-right {
+    float: right;
+    background-color: lightgreen;
+}
