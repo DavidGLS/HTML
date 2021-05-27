@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+}
+#box {
+    width: 756px;
+    overflow: auto;
+    margin: auto;
+}
+
+.item {
+    width: 210px;
+    height: 136px;
+    float: left;
+    margin: 20px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+}
+#item01 {
+    background-image: url("img/01.png");
+}
+#item02 {
+    background-image: url("img/02.png");
+}
+#item03 {
+    background-image: url("img/03.png");
+}
